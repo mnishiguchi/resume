@@ -1,1 +1,2 @@
 Masatoshi Nishiguchi
+A web developer specializing in Ruby on Rails and Angular
