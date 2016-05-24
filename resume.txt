@@ -1,2 +1,3 @@
 Masatoshi Nishiguchi
 A web developer specializing in Ruby on Rails and Angular
+Currently a student at General Assembly
